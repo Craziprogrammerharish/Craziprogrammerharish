@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Craziprogrammerharish
 - 👀 I’m interested in Ai ds
 - 🌱 I’m currently upgrading my skills 
-- 💞️ I’m looking to collaborate on ai 
+- 💞️ I’m looking to collaborate on ai and looki forward as a full time data scientist  job
 - 📫 How to reach me  
 harish1309159@gmail.com
 
